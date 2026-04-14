@@ -5,7 +5,8 @@ A curated list of production-ready [Model Context Protocol](https://modelcontext
 All servers listed here are available as **managed, one-click deployable MCP servers** on the [Vinkius AI Gateway](https://vinkius.com) — no infrastructure to manage, no Docker to run, no CORS to debug.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![MCP Servers](https://img.shields.io/badge/MCP_Servers-2%2C647-blue)](https://vinkius.com/en/categories)
+[![Listed](https://img.shields.io/badge/Listed-370%2B_servers-brightgreen)](https://vinkius.com/en/categories)
+[![Total Available](https://img.shields.io/badge/Total_Available-2%2C647-blue)](https://vinkius.com/en/categories)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
