@@ -33,15 +33,23 @@ All servers listed here are available as **managed, one-click deployable MCP ser
 - [Productivity and Docs](#productivity-and-docs)
 - [Government and Open Data](#government-and-open-data)
 - [HR and Recruiting](#hr-and-recruiting)
-- [IoT and Hardware](#iot-and-hardware)
 - [Crypto and Blockchain](#crypto-and-blockchain)
-- [Legal and Compliance](#legal-and-compliance)
-- [Health and Fitness](#health-and-fitness)
-- [Travel and Logistics](#travel-and-logistics)
-- [Real Estate and Maps](#real-estate-and-maps)
-- [Education](#education)
 - [Customer Support](#customer-support)
 - [File Storage and CDN](#file-storage-and-cdn)
+- [NASA and Space](#nasa-and-space)
+- [Weather and Climate](#weather-and-climate)
+- [Gaming and Esports](#gaming-and-esports)
+- [Music and Audio](#music-and-audio)
+- [Sports](#sports)
+- [News and Media](#news-and-media)
+- [Food, Nutrition, and Agriculture](#food-nutrition-and-agriculture)
+- [Healthcare and Public Health](#healthcare-and-public-health)
+- [Cannabis](#cannabis)
+- [Energy and Environment](#energy-and-environment)
+- [Maps and Geospatial](#maps-and-geospatial)
+- [Travel and Delivery](#travel-and-delivery)
+- [Government Finance and Economics](#government-finance-and-economics)
+- [Science and Research](#science-and-research)
 
 ---
 
@@ -412,6 +420,202 @@ All servers listed here are available as **managed, one-click deployable MCP ser
 | [cloudinary-mcp](https://vinkius.com/en/apps/cloudinary-mcp) | Cloudinary media pipeline |
 | [dropbox-mcp](https://vinkius.com/en/apps/dropbox-mcp) | Dropbox file sync |
 | [box-mcp](https://vinkius.com/en/apps/box-mcp) | Box enterprise content |
+
+## NASA and Space
+
+| Server | Description |
+|---|---|
+| [nasa-full-ultimate-space-intelligence-mcp](https://vinkius.com/en/apps/nasa-full-ultimate-space-intelligence-mcp) | Full NASA data intelligence |
+| [nasa-mcp](https://vinkius.com/en/apps/nasa-mcp) | NASA core API |
+| [nasa-apod-astronomy-picture-of-the-day-mcp](https://vinkius.com/en/apps/nasa-apod-astronomy-picture-of-the-day-mcp) | Astronomy Picture of the Day |
+| [nasa-mars-rover-photos-from-the-red-planet-mcp](https://vinkius.com/en/apps/nasa-mars-rover-photos-from-the-red-planet-mcp) | Mars Rover imagery |
+| [nasa-asteroids-near-earth-objects-planetary-defense-mcp](https://vinkius.com/en/apps/nasa-asteroids-near-earth-objects-planetary-defense-mcp) | Near-Earth objects and planetary defense |
+| [nasa-exoplanets-worlds-beyond-our-solar-system-mcp](https://vinkius.com/en/apps/nasa-exoplanets-worlds-beyond-our-solar-system-mcp) | Exoplanet discovery data |
+| [nasa-donki-space-weather-intelligence-mcp](https://vinkius.com/en/apps/nasa-donki-space-weather-intelligence-mcp) | Space weather intelligence |
+| [nasa-earth-full-disk-imagery-natural-events-mcp](https://vinkius.com/en/apps/nasa-earth-full-disk-imagery-natural-events-mcp) | Earth imagery and natural events |
+| [nasa-media-patents-images-videos-technology-transfer-mcp](https://vinkius.com/en/apps/nasa-media-patents-images-videos-technology-transfer-mcp) | NASA media, patents, technology |
+| [nasa-open-data-mcp](https://vinkius.com/en/apps/nasa-open-data-mcp) | NASA open datasets |
+| [keeptrack-space-intelligence-mcp](https://vinkius.com/en/apps/keeptrack-space-intelligence-mcp) | Satellite and space object tracking |
+| [epsilon3-aerospace-operations-mcp](https://vinkius.com/en/apps/epsilon3-aerospace-operations-mcp) | Aerospace operations platform |
+
+## Weather and Climate
+
+| Server | Description |
+|---|---|
+| [noaa-full-ultimate-weather-climate-intelligence-mcp](https://vinkius.com/en/apps/noaa-full-ultimate-weather-climate-intelligence-mcp) | Full NOAA weather intelligence |
+| [noaa-forecast-us-weather-predictions-mcp](https://vinkius.com/en/apps/noaa-forecast-us-weather-predictions-mcp) | US weather forecasts |
+| [noaa-alerts-us-severe-weather-warnings-mcp](https://vinkius.com/en/apps/noaa-alerts-us-severe-weather-warnings-mcp) | Severe weather warnings |
+| [noaa-observations-us-current-conditions-mcp](https://vinkius.com/en/apps/noaa-observations-us-current-conditions-mcp) | Current conditions |
+| [noaa-climate-historical-weather-records-mcp](https://vinkius.com/en/apps/noaa-climate-historical-weather-records-mcp) | Historical climate records |
+| [noaa-marine-tides-currents-coastal-data-mcp](https://vinkius.com/en/apps/noaa-marine-tides-currents-coastal-data-mcp) | Marine, tides, and coastal data |
+| [noaa-space-weather-solar-geomagnetic-intelligence-mcp](https://vinkius.com/en/apps/noaa-space-weather-solar-geomagnetic-intelligence-mcp) | Solar and geomagnetic activity |
+| [noaa-aviation-airport-weather-intelligence-mcp](https://vinkius.com/en/apps/noaa-aviation-airport-weather-intelligence-mcp) | Aviation weather intelligence |
+| [openweather-mcp](https://vinkius.com/en/apps/openweather-mcp) | OpenWeatherMap forecast data |
+| [accuweather-mcp](https://vinkius.com/en/apps/accuweather-mcp) | AccuWeather forecasts |
+| [open-meteo-weather-forecast-mcp](https://vinkius.com/en/apps/open-meteo-weather-forecast-mcp) | Open-Meteo free weather API |
+| [open-meteo-marine-weather-mcp](https://vinkius.com/en/apps/open-meteo-marine-weather-mcp) | Marine weather forecasts |
+| [usgs-earthquakes-mcp](https://vinkius.com/en/apps/usgs-earthquakes-mcp) | USGS earthquake data |
+| [epa-airnow-mcp](https://vinkius.com/en/apps/epa-airnow-mcp) | EPA air quality index |
+
+## Gaming and Esports
+
+| Server | Description |
+|---|---|
+| [steam-mcp](https://vinkius.com/en/apps/steam-mcp) | Steam platform API |
+| [steam-economy-market-intelligence-mcp](https://vinkius.com/en/apps/steam-economy-market-intelligence-mcp) | Steam marketplace and economy data |
+| [steam-performance-scouting-intelligence-mcp](https://vinkius.com/en/apps/steam-performance-scouting-intelligence-mcp) | Steam player stats and scouting |
+| [steam-platform-hype-intelligence-mcp](https://vinkius.com/en/apps/steam-platform-hype-intelligence-mcp) | Steam trending and hype analytics |
+| [roblox-experience-discovery-mcp](https://vinkius.com/en/apps/roblox-experience-discovery-mcp) | Roblox experience discovery |
+| [roblox-avatar-catalog-intelligence-mcp](https://vinkius.com/en/apps/roblox-avatar-catalog-intelligence-mcp) | Roblox avatar and catalog data |
+| [roblox-social-group-intelligence-mcp](https://vinkius.com/en/apps/roblox-social-group-intelligence-mcp) | Roblox social and group data |
+| [epic-games-store-intelligence-mcp](https://vinkius.com/en/apps/epic-games-store-intelligence-mcp) | Epic Games Store intelligence |
+| [epic-games-eos-mcp](https://vinkius.com/en/apps/epic-games-eos-mcp) | Epic Online Services |
+| [fortnite-player-stats-news-intelligence-mcp](https://vinkius.com/en/apps/fortnite-player-stats-news-intelligence-mcp) | Fortnite player stats and news |
+| [riot-games-mcp](https://vinkius.com/en/apps/riot-games-mcp) | Riot Games (League, Valorant) |
+| [igdb-global-gaming-database-mcp](https://vinkius.com/en/apps/igdb-global-gaming-database-mcp) | IGDB global game database |
+| [rawg-video-games-database-mcp](https://vinkius.com/en/apps/rawg-video-games-database-mcp) | RAWG video games database |
+| [twitch-mcp](https://vinkius.com/en/apps/twitch-mcp) | Twitch streaming platform |
+| [pandascore-mcp](https://vinkius.com/en/apps/pandascore-mcp) | PandaScore esports data |
+| [chesscom-mcp](https://vinkius.com/en/apps/chesscom-mcp) | Chess.com player data |
+| [lichessorg-open-chess-intelligence-mcp](https://vinkius.com/en/apps/lichessorg-open-chess-intelligence-mcp) | Lichess open chess data |
+
+## Music and Audio
+
+| Server | Description |
+|---|---|
+| [spotify-music-mcp](https://vinkius.com/en/apps/spotify-music-mcp) | Spotify music platform |
+| [soundcloud-mcp](https://vinkius.com/en/apps/soundcloud-mcp) | SoundCloud audio platform |
+| [deezer-mcp](https://vinkius.com/en/apps/deezer-mcp) | Deezer music streaming |
+| [musicbrainz-mcp](https://vinkius.com/en/apps/musicbrainz-mcp) | MusicBrainz open music encyclopedia |
+| [audiomack-music-mcp](https://vinkius.com/en/apps/audiomack-music-mcp) | Audiomack music platform |
+| [acrcloud-music-recognition-mcp](https://vinkius.com/en/apps/acrcloud-music-recognition-mcp) | ACRCloud music recognition |
+| [audd-music-recognition-mcp](https://vinkius.com/en/apps/audd-music-recognition-mcp) | AudD music identification |
+| [podbean-podcast-hosting-mcp](https://vinkius.com/en/apps/podbean-podcast-hosting-mcp) | Podbean podcast hosting |
+| [podchaser-podcast-api-mcp](https://vinkius.com/en/apps/podchaser-podcast-api-mcp) | Podchaser podcast database |
+
+## Sports
+
+| Server | Description |
+|---|---|
+| [api-football-mcp](https://vinkius.com/en/apps/api-football-mcp) | Global football (soccer) data |
+| [api-futebol-brazilian-football-mcp](https://vinkius.com/en/apps/api-futebol-brazilian-football-mcp) | Brazilian football leagues |
+| [thesportsdb-global-sports-database-mcp](https://vinkius.com/en/apps/thesportsdb-global-sports-database-mcp) | Global sports database |
+| [fantasydata-sportsdataio-mcp](https://vinkius.com/en/apps/fantasydata-sportsdataio-mcp) | Fantasy sports and stats |
+| [openf1-live-data-telemetry-mcp](https://vinkius.com/en/apps/openf1-live-data-telemetry-mcp) | Formula 1 live telemetry |
+| [hyprace-f1-data-mcp](https://vinkius.com/en/apps/hyprace-f1-data-mcp) | F1 race data |
+| [strava-training-mcp](https://vinkius.com/en/apps/strava-training-mcp) | Strava training data |
+| [strava-social-mcp](https://vinkius.com/en/apps/strava-social-mcp) | Strava social features |
+| [fitbit-mcp](https://vinkius.com/en/apps/fitbit-mcp) | Fitbit health and fitness |
+| [whoop-mcp](https://vinkius.com/en/apps/whoop-mcp) | WHOOP recovery and strain |
+| [pandascore-mcp](https://vinkius.com/en/apps/pandascore-mcp) | PandaScore esports statistics |
+
+## News and Media
+
+| Server | Description |
+|---|---|
+| [newsapi-mcp](https://vinkius.com/en/apps/newsapi-mcp) | NewsAPI global news |
+| [newscatcher-mcp](https://vinkius.com/en/apps/newscatcher-mcp) | Newscatcher news data |
+| [hacker-news-mcp](https://vinkius.com/en/apps/hacker-news-mcp) | Hacker News stories |
+| [the-movie-database-tmdb-mcp](https://vinkius.com/en/apps/the-movie-database-tmdb-mcp) | TMDB movies and TV shows |
+| [imdb-api-unofficial-mcp](https://vinkius.com/en/apps/imdb-api-unofficial-mcp) | IMDb movie data |
+| [marvel-comics-mcp](https://vinkius.com/en/apps/marvel-comics-mcp) | Marvel Comics API |
+
+## Food, Nutrition, and Agriculture
+
+| Server | Description |
+|---|---|
+| [usda-fooddata-central-mcp](https://vinkius.com/en/apps/usda-fooddata-central-mcp) | USDA food composition data |
+| [nutritionix-mcp](https://vinkius.com/en/apps/nutritionix-mcp) | Nutritionix nutrition database |
+| [open-food-facts-mcp](https://vinkius.com/en/apps/open-food-facts-mcp) | Open Food Facts global products |
+| [api-ninjas-nutrition-mcp](https://vinkius.com/en/apps/api-ninjas-nutrition-mcp) | Nutrition data API |
+| [global-wine-score-mcp](https://vinkius.com/en/apps/global-wine-score-mcp) | Wine ratings and scores |
+| [wine-searcher-mcp](https://vinkius.com/en/apps/wine-searcher-mcp) | Wine search and prices |
+| [usda-nass-mcp](https://vinkius.com/en/apps/usda-nass-mcp) | USDA agricultural statistics |
+| [openfarm-agriculture-mcp](https://vinkius.com/en/apps/openfarm-agriculture-mcp) | OpenFarm growing guides |
+| [farmonaut-mcp](https://vinkius.com/en/apps/farmonaut-mcp) | Satellite-based farm monitoring |
+| [eosda-agriculture-satellite-data-mcp](https://vinkius.com/en/apps/eosda-agriculture-satellite-data-mcp) | EOSDA agricultural satellite data |
+
+## Healthcare and Public Health
+
+| Server | Description |
+|---|---|
+| [epic-fhir-mcp](https://vinkius.com/en/apps/epic-fhir-mcp) | Epic FHIR health records |
+| [fda-openfda-mcp](https://vinkius.com/en/apps/fda-openfda-mcp) | FDA drug, device, and food data |
+| [cdc-public-health-mcp](https://vinkius.com/en/apps/cdc-public-health-mcp) | CDC public health data |
+| [who-gho-mcp](https://vinkius.com/en/apps/who-gho-mcp) | WHO Global Health Observatory |
+| [who-athena-api-mcp](https://vinkius.com/en/apps/who-athena-api-mcp) | WHO Athena health terminology |
+| [healthcaregov-mcp](https://vinkius.com/en/apps/healthcaregov-mcp) | HealthCare.gov marketplace |
+| [health-gorilla-mcp](https://vinkius.com/en/apps/health-gorilla-mcp) | Health Gorilla clinical data |
+| [mindbody-health-wellness-mcp](https://vinkius.com/en/apps/mindbody-health-wellness-mcp) | Mindbody fitness and wellness |
+
+## Cannabis
+
+| Server | Description |
+|---|---|
+| [kannapedia-cannabis-genetics-mcp](https://vinkius.com/en/apps/kannapedia-cannabis-genetics-mcp) | Cannabis genetics database |
+| [otreeba-cannabis-api-mcp](https://vinkius.com/en/apps/otreeba-cannabis-api-mcp) | Cannabis strains and products |
+
+## Energy and Environment
+
+| Server | Description |
+|---|---|
+| [eia-full-access-us-energy-intelligence-mcp](https://vinkius.com/en/apps/eia-full-access-us-energy-intelligence-mcp) | Full US energy intelligence |
+| [eia-petroleum-oil-market-intelligence-mcp](https://vinkius.com/en/apps/eia-petroleum-oil-market-intelligence-mcp) | Petroleum and oil market data |
+| [eia-natural-gas-gas-market-intelligence-mcp](https://vinkius.com/en/apps/eia-natural-gas-gas-market-intelligence-mcp) | Natural gas market data |
+| [eia-electricity-power-grid-intelligence-mcp](https://vinkius.com/en/apps/eia-electricity-power-grid-intelligence-mcp) | Electricity and power grid data |
+| [eia-coal-mining-solid-fuels-intelligence-mcp](https://vinkius.com/en/apps/eia-coal-mining-solid-fuels-intelligence-mcp) | Coal and solid fuels data |
+| [nrel-energy-data-mcp](https://vinkius.com/en/apps/nrel-energy-data-mcp) | NREL renewable energy data |
+| [epa-computational-toxicology-mcp](https://vinkius.com/en/apps/epa-computational-toxicology-mcp) | EPA toxicology data |
+
+## Maps and Geospatial
+
+| Server | Description |
+|---|---|
+| [google-maps-mcp](https://vinkius.com/en/apps/google-maps-mcp) | Google Maps platform |
+| [mapbox-mcp](https://vinkius.com/en/apps/mapbox-mcp) | Mapbox maps and navigation |
+| [overpass-openstreetmap-mcp](https://vinkius.com/en/apps/overpass-openstreetmap-mcp) | OpenStreetMap Overpass API |
+| [zillow-mcp](https://vinkius.com/en/apps/zillow-mcp) | Zillow real estate data |
+| [idealista-real-estate-mcp](https://vinkius.com/en/apps/idealista-real-estate-mcp) | Idealista real estate (Europe) |
+| [foursquare-mcp](https://vinkius.com/en/apps/foursquare-mcp) | Foursquare places data |
+| [nearmap-high-res-aerial-imagery-ai-mcp](https://vinkius.com/en/apps/nearmap-high-res-aerial-imagery-ai-mcp) | Nearmap high-res aerial imagery |
+
+## Travel and Delivery
+
+| Server | Description |
+|---|---|
+| [airbnb-mcp](https://vinkius.com/en/apps/airbnb-mcp) | Airbnb listings |
+| [tripadvisor-mcp](https://vinkius.com/en/apps/tripadvisor-mcp) | TripAdvisor travel data |
+| [uber-mcp](https://vinkius.com/en/apps/uber-mcp) | Uber ride services |
+| [lyft-mcp](https://vinkius.com/en/apps/lyft-mcp) | Lyft ride services |
+| [doordash-drive-mcp](https://vinkius.com/en/apps/doordash-drive-mcp) | DoorDash delivery |
+| [fedex-mcp](https://vinkius.com/en/apps/fedex-mcp) | FedEx shipping and tracking |
+| [transport-for-london-mcp](https://vinkius.com/en/apps/transport-for-london-mcp) | Transport for London |
+
+## Government Finance and Economics
+
+| Server | Description |
+|---|---|
+| [world-bank-full-access-mcp](https://vinkius.com/en/apps/world-bank-full-access-mcp) | World Bank full data access |
+| [world-bank-economy-mcp](https://vinkius.com/en/apps/world-bank-economy-mcp) | World Bank economic indicators |
+| [world-bank-population-mcp](https://vinkius.com/en/apps/world-bank-population-mcp) | World Bank population data |
+| [world-bank-education-health-mcp](https://vinkius.com/en/apps/world-bank-education-health-mcp) | World Bank education and health |
+| [world-bank-climate-energy-mcp](https://vinkius.com/en/apps/world-bank-climate-energy-mcp) | World Bank climate and energy |
+| [oecd-data-api-mcp](https://vinkius.com/en/apps/oecd-data-api-mcp) | OECD economic data |
+| [bls-prices-consumer-price-index-cpi-inflation-mcp](https://vinkius.com/en/apps/bls-prices-consumer-price-index-cpi-inflation-mcp) | Bureau of Labor Statistics CPI |
+| [fema-mcp](https://vinkius.com/en/apps/fema-mcp) | FEMA disaster data |
+| [nist-nvd-mcp](https://vinkius.com/en/apps/nist-nvd-mcp) | NIST vulnerability database |
+| [dot-transportation-mcp](https://vinkius.com/en/apps/dot-transportation-mcp) | US DOT transportation data |
+| [bcb-full-inteligencia-financeira-completa-do-brasil-mcp](https://vinkius.com/en/apps/bcb-full-inteligencia-financeira-completa-do-brasil-mcp) | Brazilian Central Bank data |
+
+## Science and Research
+
+| Server | Description |
+|---|---|
+| [genbankncbi-api-mcp](https://vinkius.com/en/apps/genbankncbi-api-mcp) | NCBI GenBank genetic data |
+| [perenual-plant-api-mcp](https://vinkius.com/en/apps/perenual-plant-api-mcp) | Plant identification and care |
+| [petfinder-mcp](https://vinkius.com/en/apps/petfinder-mcp) | Petfinder animal adoption |
+| [open-trivia-database-mcp](https://vinkius.com/en/apps/open-trivia-database-mcp) | Open Trivia Database |
+| [gutendex-mcp](https://vinkius.com/en/apps/gutendex-mcp) | Project Gutenberg books |
 
 ---
 
