@@ -560,6 +560,7 @@ All servers listed here are available as **managed, one-click deployable MCP ser
 
 | Server | Description |
 |---|---|
+| [dc-hub-mcp](https://github.com/azmartone67/dchub-mcp-server) | Live data layer for data-center site selection; Data Center Power Index (DCPI) across 300+ markets. Remote MCP: https://dchub.cloud/mcp (94 tools) |
 | [eia-full-access-us-energy-intelligence-mcp](https://vinkius.com/en/apps/eia-full-access-us-energy-intelligence-mcp) | Full US energy intelligence |
 | [eia-petroleum-oil-market-intelligence-mcp](https://vinkius.com/en/apps/eia-petroleum-oil-market-intelligence-mcp) | Petroleum and oil market data |
 | [eia-natural-gas-gas-market-intelligence-mcp](https://vinkius.com/en/apps/eia-natural-gas-gas-market-intelligence-mcp) | Natural gas market data |
